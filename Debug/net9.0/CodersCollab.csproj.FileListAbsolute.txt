@@ -1,0 +1,8 @@
+C:\Users\Asus Tuf\Desktop\geek\obj\Debug\net9.0\CodersCollab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus Tuf\Desktop\geek\obj\Debug\net9.0\CodersCollab.AssemblyInfoInputs.cache
+C:\Users\Asus Tuf\Desktop\geek\obj\Debug\net9.0\CodersCollab.AssemblyInfo.cs
+C:\Users\Asus Tuf\Desktop\geek\obj\Debug\net9.0\CodersCollab.csproj.CoreCompileInputs.cache
+C:\Users\Asus Tuf\Desktop\geek\obj\Debug\net9.0\CodersCollab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus Tuf\Desktop\geek\obj\Debug\net9.0\CodersCollab.RazorAssemblyInfo.cache
+C:\Users\Asus Tuf\Desktop\geek\obj\Debug\net9.0\CodersCollab.RazorAssemblyInfo.cs
+C:\Users\Asus Tuf\Desktop\geek\obj\Debug\net9.0\CodersCollab.csproj.AssemblyReference.cache

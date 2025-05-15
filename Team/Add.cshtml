@@ -1,0 +1,9 @@
+@model CodersCollab.Models.Team
+<h2>Add Team</h2>
+<form asp-action="Add" method="post">
+    <div><label>Name</label><input asp-for="Name" /></div>
+    <div><label>Description</label><input asp-for="Description" /></div>
+    <div><label>Technology</label><input asp-for="Technology" /></div>
+    <div><label>Required Members</label><input asp-for="RequiredMembers" /></div>
+    <button type="submit">Save</button>
+</form>
